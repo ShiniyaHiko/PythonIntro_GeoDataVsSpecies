@@ -9,7 +9,7 @@ The code is run as a Jupyter Notebook and consists of 3 blocks of code, which ne
 
 Initially, a few lines were generated using ChatGPT and subsequently modified.
 # Installation
-Needed packages: Python 3.10, pandas, scipy, seaborn, matplotlib
+Needed packages: Python 3.10, pandas, scipy, seaborn, matplotlib, jupyter lab
 
 1. Download this repository.
 
@@ -17,7 +17,7 @@ Needed packages: Python 3.10, pandas, scipy, seaborn, matplotlib
 	
 2. Install needed packages via pip.
  
-	```pip install jupyterlab, pandas, seaborn, jupyter lab``` 
+	```pip install pandas, seaborn, jupyter lab``` 
 	
 	in the project folder
 3. Open the project using jupyterlab.

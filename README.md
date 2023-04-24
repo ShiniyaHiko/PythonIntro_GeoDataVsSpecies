@@ -17,10 +17,12 @@ Needed packages: Python 3.10, jupyterlab, pandas, scipy, seaborn, matplotlib
 	
 2. Install needed packages via pip.
  
-	```pip install jupyterlab, pandas, seaborn jupyter lab``` 
+	```pip install jupyterlab, pandas, seaborn, jupyter lab``` 
 	
 	in the project folder
 3. Open the project using jupyterlab.
+
+	```jupyter lab```
 
 # Usage
 Open the project using jupyterlab. Then run the 3 code blocks in order from top to bottom. Jupyterlab will show the output in the notebook.

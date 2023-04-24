@@ -9,7 +9,7 @@ The code is run as a Jupyter Notebook and consists of 3 blocks of code, which ne
 
 Initially, a few lines were generated using ChatGPT and subsequently modified.
 # Installation
-Needed packages: Python 3.10, jupyterlab, pandas, scipy, seaborn, matplotlib
+Needed packages: Python 3.10, pandas, scipy, seaborn, matplotlib
 
 1. Download this repository.
 

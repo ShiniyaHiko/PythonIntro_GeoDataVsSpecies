@@ -1,9 +1,9 @@
 # PythonIntro_GeoDataVsSpecies
 Project Submission
 # Overview
-This python project takes geological data and species richness of tedrapods, amphibians and memals and looks for possible correlations which are then ploted into a scatterplot.
+This python project uses geological data and species richness of tedrapods, amphibians and memals and searches for possible correlations, which are then ploted into a scatterplot.
 
-This project used the dataset from the webpage [https://www.research-collection.ethz.ch/handle/20.500.11850/411821](https://www.research-collection.ethz.ch/handle/20.500.11850/411821). Because the whole dataset is quite big, 'copy_head.py' was used to shorten it to the first 5000 rows to work with. This subset can be found as 'global_data_5k.txt'.
+This project used the Global geologic, topographic and biological dataset from the webpage [https://www.research-collection.ethz.ch/handle/20.500.11850/411821](https://www.research-collection.ethz.ch/handle/20.500.11850/411821). The whole dataset is quite big, so 'copy_head.py' was used to shorten it to the first 5000 rows to work with. This subset can be found as 'global_data_5k.txt', which is are comma seperated values.
 
 The code is run as a Jupyter Notebook and consists of 3 blocks of code wich need to be run in order. The first is reading the .txt file as dataframe using panda. Next the second is searching for possibly interessting correlations using the Pearson correlation coefficent. And lastly the third is plotting every possibly interesting correlation into its own scatterplot.
 

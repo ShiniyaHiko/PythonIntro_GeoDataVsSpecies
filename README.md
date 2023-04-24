@@ -13,7 +13,7 @@ Needed packages: Python 3.10, jupyterlab, pandas, scipy, seaborn, matplotlib
 
 1. Download this repository.
 
-	```git clone https://github.com/ShiniyaHiko/PythonIntro_GeoDataVsSpecies/tree/main```
+	```git clone https://github.com/ShiniyaHiko/PythonIntro_GeoDataVsSpecies.git```
 	
 2. Install needed packages via pip.
  

@@ -13,11 +13,26 @@ Needed packages: Python 3.10, pandas, scipy, seaborn, matplotlib, jupyter lab
 
 1. Download this repository.
 
-	```git clone https://github.com/ShiniyaHiko/PythonIntro_GeoDataVsSpecies.git```
+	```git clone https://github.com/ShiniyaHiko/PythonIntro_GeoDataVsSpecies.git```	
+2. Go into the repository.
+
+	```cd PythonIntro_GeoDataVsSpecies```
 	
-2. Install needed packages via pip.
+3. Create a virtual enviroment.
+
+	```python -m venv env```
+	
+4. Activate the virtual enviroment.
+	
+	Windows:
+	```env/Scripts/activate.bat```
+	
+	Linux/Mac:
+	```source env/bin/activate```
+	
+4. Install needed packages via pip.
  
-	```pip install pandas, seaborn, jupyter lab``` 
+	```pip install pandas seaborn jupyterlab scipy``` 
 	
 	in the project folder
 3. Open the project using jupyterlab.
